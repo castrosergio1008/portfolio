@@ -1,4 +1,5 @@
-import { ExternalLink, Github, ArrowRight } from 'lucide-react'
+import { ExternalLink, ArrowRight } from 'lucide-react'
+import { GithubIcon } from './BrandIcons'
 
 const projects = [
   {
@@ -71,7 +72,7 @@ export default function Projects() {
                     rel="noopener noreferrer"
                     className="p-3 bg-gray-900/90 rounded-full text-white hover:bg-gray-800 transition-colors"
                   >
-                    <Github size={20} />
+                    <GithubIcon size={20} />
                   </a>
                   <a
                     href={project.live}

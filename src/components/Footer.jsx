@@ -1,4 +1,5 @@
-import { Heart, Github, Linkedin, Twitter, Mail } from 'lucide-react'
+import { Heart, Mail } from 'lucide-react'
+import { GithubIcon, LinkedinIcon, TwitterIcon } from './BrandIcons'
 
 export default function Footer() {
   const currentYear = new Date().getFullYear()
@@ -23,7 +24,7 @@ export default function Footer() {
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-white transition-colors"
             >
-              <Github size={18} />
+              <GithubIcon size={18} />
             </a>
             <a
               href="https://linkedin.com"
@@ -31,7 +32,7 @@ export default function Footer() {
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-white transition-colors"
             >
-              <Linkedin size={18} />
+              <LinkedinIcon size={18} />
             </a>
             <a
               href="https://twitter.com"
@@ -39,7 +40,7 @@ export default function Footer() {
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-white transition-colors"
             >
-              <Twitter size={18} />
+              <TwitterIcon size={18} />
             </a>
             <a
               href="mailto:castrosergio1008@gmail.com"

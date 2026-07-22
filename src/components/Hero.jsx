@@ -1,4 +1,5 @@
-import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react'
+import { ArrowDown, Mail } from 'lucide-react'
+import { GithubIcon, LinkedinIcon } from './BrandIcons'
 
 export default function Hero() {
   return (
@@ -55,7 +56,7 @@ export default function Hero() {
             rel="noopener noreferrer"
             className="p-3 bg-gray-900 border border-gray-800 rounded-lg text-gray-400 hover:text-white hover:border-gray-700 transition-all"
           >
-            <Github size={20} />
+            <GithubIcon size={20} />
           </a>
           <a
             href="https://linkedin.com"
@@ -63,7 +64,7 @@ export default function Hero() {
             rel="noopener noreferrer"
             className="p-3 bg-gray-900 border border-gray-800 rounded-lg text-gray-400 hover:text-white hover:border-gray-700 transition-all"
           >
-            <Linkedin size={20} />
+            <LinkedinIcon size={20} />
           </a>
           <a
             href="mailto:castrosergio1008@gmail.com"

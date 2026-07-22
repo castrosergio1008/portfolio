@@ -1,4 +1,5 @@
-import { Mail, MapPin, Send, Github, Linkedin, Twitter } from 'lucide-react'
+import { Mail, MapPin, Send } from 'lucide-react'
+import { GithubIcon, LinkedinIcon, TwitterIcon } from './BrandIcons'
 
 export default function Contact() {
   return (
@@ -57,7 +58,7 @@ export default function Contact() {
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-800 rounded-lg text-gray-400 hover:text-white hover:bg-gray-700 transition-all"
                 >
-                  <Github size={20} />
+                  <GithubIcon size={20} />
                 </a>
                 <a
                   href="https://linkedin.com"
@@ -65,7 +66,7 @@ export default function Contact() {
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-800 rounded-lg text-gray-400 hover:text-white hover:bg-gray-700 transition-all"
                 >
-                  <Linkedin size={20} />
+                  <LinkedinIcon size={20} />
                 </a>
                 <a
                   href="https://twitter.com"
@@ -73,7 +74,7 @@ export default function Contact() {
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-800 rounded-lg text-gray-400 hover:text-white hover:bg-gray-700 transition-all"
                 >
-                  <Twitter size={20} />
+                  <TwitterIcon size={20} />
                 </a>
               </div>
             </div>
