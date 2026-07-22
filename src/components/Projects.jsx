@@ -135,7 +135,7 @@ export default function Projects() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 border border-gray-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors"
           >
-            <Github size={20} />
+            <GithubIcon size={20} />
             View All Projects on GitHub
           </a>
         </div>
