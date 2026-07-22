@@ -8,7 +8,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop',
     tech: ['React', 'Tailwind CSS', 'Vite'],
     github: 'https://github.com/castrosergio1008/saasify-landing',
-    live: '#',
+    live: 'https://saasify-landing-mu.vercel.app',
     featured: true,
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop',
     tech: ['React', 'Recharts', 'Context API', 'Tailwind CSS'],
     github: 'https://github.com/castrosergio1008/dashboard-admin',
-    live: '#',
+    live: 'https://dashboard-admin-mu-beige.vercel.app',
     featured: true,
   },
 ]
