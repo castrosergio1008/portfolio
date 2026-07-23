@@ -62,7 +62,7 @@ I can deliver a complete API with:
 Timeline: [X] days
 Budget: [Your rate]
 
-Want to see a live demo? Check out: https://task-manager-api-lilac.vercel.app
+Want to see a live demo? Check out: https://task-manager-api-tau-roan.vercel.app
 
 Let's schedule a quick call to discuss your requirements.
 
@@ -143,7 +143,7 @@ My experience includes:
 ✅ Mongoose ODM
 
 Recent project: Task Manager API with MongoDB Atlas
-→ Live demo: https://task-manager-api-lilac.vercel.app
+→ Live demo: https://task-manager-api-tau-roan.vercel.app
 
 I can help you with:
 ✅ Database design and architecture

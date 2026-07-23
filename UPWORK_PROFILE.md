@@ -146,7 +146,7 @@ Complete REST API for task management with:
 Technologies: Node.js, Express 4, MongoDB, JWT, Swagger
 ```
 
-**Link:** https://task-manager-api-lilac.vercel.app
+**Link:** https://task-manager-api-tau-roan.vercel.app
 **GitHub:** https://github.com/castrosergio1008/task-manager-api
 
 ---
@@ -313,7 +313,7 @@ Sergio
 
 - **Portfolio:** https://portfolio-five-azure-dy4rabdb3c.vercel.app
 - **GitHub:** https://github.com/castrosergio1008
-- **API Demo:** https://task-manager-api-lilac.vercel.app
+- **API Demo:** https://task-manager-api-tau-roan.vercel.app
 
 ---
 

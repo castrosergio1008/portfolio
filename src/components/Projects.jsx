@@ -17,7 +17,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop',
     tech: ['Node.js', 'Express', 'MongoDB', 'JWT', 'Swagger'],
     github: 'https://github.com/castrosergio1008/task-manager-api-',
-    live: 'https://task-manager-api-lilac.vercel.app',
+    live: 'https://task-manager-api-tau-roan.vercel.app',
     featured: true,
   },
   {
